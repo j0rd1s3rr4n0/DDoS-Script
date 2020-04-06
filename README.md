@@ -1,4 +1,4 @@
-# DDoS-Attack-Script
+# DoS-Attack-Script
 ## ESPAÑOL
 Esta herramienta ha sido desarrollada para el único fin de estudiar el funcionamiento de la herramienta.
 No me hago responsable de cualquier uso alternativo que se le vaya a dar.
